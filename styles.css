@@ -1,0 +1,19 @@
+/*seletor de tag*/
+p {
+    color: red;
+    font-size: 20px;
+}
+/*seletor de classe*/
+.texto-verde {
+    color: green;
+}
+/*seletores de id*/
+#texto-azul {
+    color: blue;
+    background-color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+    font: <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" 
+    rel="stylesheet">;
+}
